@@ -38,4 +38,11 @@ age-calculator/
 ├── index.html # Structure of the app
 ├── style.css # Styling and layout
 ├── script.js # App logic and interactivity
+├── LICENSE # MIT License
 └── README.md # You're reading it!
+
+
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE) © 2025 Diksha Verma.
