@@ -32,16 +32,20 @@ Designed with love using **HTML**, **CSS**, and **JavaScript**, this little budd
 3. Your **Age** appears if the input is correct.
 4. Click **Clear** to play again.
 
+---
 
 ## 📁 Project Structure
-age-calculator/
-├── index.html # Structure of the app
-├── style.css # Styling and layout
-├── script.js # App logic and interactivity
-├── LICENSE # MIT License
-└── README.md # You're reading it!
 
+```text
+age-buddy-calculator/
+├── index.html       # Webpage structure
+├── style.css        # Styling and layout
+├── script.js        # JavaScript logic
+├── LICENSE          # MIT License
+└── README.md        # You're reading it!
+```
 
+---
 
 ## 📝 License
 
